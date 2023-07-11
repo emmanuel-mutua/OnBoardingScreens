@@ -1,4 +1,4 @@
-package com.example.launch_screensonboarding.ui.theme.onBoarding.components
+package com.example.launch_screensonboarding.onBoarding.components
 
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.material3.Button

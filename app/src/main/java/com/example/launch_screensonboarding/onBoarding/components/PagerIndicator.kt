@@ -1,4 +1,4 @@
-package com.example.launch_screensonboarding.ui.theme.onBoarding.components
+package com.example.launch_screensonboarding.onBoarding.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box

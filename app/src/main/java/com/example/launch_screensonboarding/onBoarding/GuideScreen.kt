@@ -1,4 +1,4 @@
-package com.example.launch_screensonboarding.ui.theme.onBoarding
+package com.example.launch_screensonboarding.onBoarding
 
 import androidx.compose.animation.core.animateDpAsState
 import androidx.compose.foundation.ExperimentalFoundationApi
@@ -25,9 +25,9 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.launch_screensonboarding.ui.theme.onBoarding.components.MyButton
-import com.example.launch_screensonboarding.ui.theme.onBoarding.components.MyImage
-import com.example.launch_screensonboarding.ui.theme.onBoarding.components.PagerIndicator
+import com.example.launch_screensonboarding.onBoarding.components.MyButton
+import com.example.launch_screensonboarding.onBoarding.components.MyImage
+import com.example.launch_screensonboarding.onBoarding.components.PagerIndicator
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalFoundationApi::class)

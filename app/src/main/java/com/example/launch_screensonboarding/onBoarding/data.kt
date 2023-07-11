@@ -1,4 +1,4 @@
-package com.example.launch_screensonboarding.ui.theme.onBoarding
+package com.example.launch_screensonboarding.onBoarding
 
 import androidx.compose.ui.graphics.Color
 import com.example.launch_screensonboarding.R

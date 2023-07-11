@@ -1,4 +1,4 @@
-package com.example.launch_screensonboarding.ui.theme.onBoarding
+package com.example.launch_screensonboarding.onBoarding
 
 //learn pager
 private val uri = "https://developer.android.com/jetpack/compose/layouts/pager"
